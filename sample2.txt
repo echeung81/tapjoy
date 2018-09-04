@@ -1,0 +1,8 @@
+rttr
+[rttr]
+aaaa
+rttr[rttr]
+rttr[rrrr]
+aaaa[aaaa]
+ommo[srttra]
+ommo[asdf]rttr[asdf]
